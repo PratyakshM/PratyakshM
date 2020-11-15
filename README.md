@@ -11,4 +11,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyakshm&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
-[![Spotify](https://novatorem-pi-three.vercel.app/api/spotify)](https://open.spotify.com/user/1np1awfo5xec4tcdk4cio1vo6)
+[![Spotify](https://spotify-readme-seven.vercel.app/api/spotify)](https://open.spotify.com/user/1np1awfo5xec4tcdk4cio1vo6)
