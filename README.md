@@ -1,6 +1,6 @@
 - 🔭 I’m Pratyaksh Mehrotra
 - 🎓 I’m a student
-- 🌱 I'm currently learning about .NET
+- 🌱 I'm currently learning C#
 - ⚒  My current project is [CleanWin](https://github.com/pratyakshm/CleanWin)
 - 🦆 I’m on [Twitter](https://twitter.com/pratyakshm_msft)
 - 📫 How to reach me: [Email](mailto:pratyakshm@protonmail.com) | [Telegram](https://t.me/pratyakshm)
